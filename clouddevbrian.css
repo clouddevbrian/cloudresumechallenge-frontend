@@ -1,0 +1,16 @@
+body {
+  background-color:  #666666;
+  background-image: linear-gradient(to bottom, #000000, #4d4d4d);
+  color:   #ffffff;
+  font-family: sans-serif;
+}
+@media only screen and (max-width: 1090px) {
+    body {
+  background-color:  #666666; }
+}
+.highlight {
+  color: #f36d00;
+}
+  td {
+    padding: 10px;
+  }
